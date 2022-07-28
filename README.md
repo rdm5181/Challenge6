@@ -36,9 +36,9 @@ This application runs a fixed program for analysis.  The application can be mani
 
 Examples images from the program:
 
- <img src= "Images/zoomed-housing-units-by-year.PNG">
+ <img src= "Images/zoomed-housing-units-by-year.png">
 
- <img src= "Images/avg-sale-px-sq-foot-gross-rent.PNG">
+ <img src= "Images/avg-sale-px-sq-foot-gross-rent.png">
 
 ## Contributors
 
