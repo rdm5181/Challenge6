@@ -36,9 +36,9 @@ This application runs a fixed program for analysis.  The application can be mani
 
 Examples images from the program:
 
- ![Housing Units in San Fransisco 2010-2016](/Challenge6/Images/zoomed-housing-units-by-year.PNG)
+ ![Housing Units in San Fransisco 2010-2016](./Images/zoomed-housing-units-by-year.PNG)
 
- ![Price per Square Foot and Average Gross Rent 2010-2016](/Challenge6/Images/avg-sale-px-sq-foot-gross-rent.PNG)
+ ![Price per Square Foot and Average Gross Rent 2010-2016](./Images/avg-sale-px-sq-foot-gross-rent.PNG)
 
 ## Contributors
 
